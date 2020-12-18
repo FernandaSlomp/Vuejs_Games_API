@@ -14,7 +14,7 @@ const actions = { // como preenche o estado global
 			method: 'GET',
 			url: 'https://free-to-play-games-database.p.rapidapi.com/api/games',
 			headers: {
-			'x-rapidapi-key': '8b60fb5648msh4d0173bc2f0d297p1b67e2jsn642533f09bf3',
+			'x-rapidapi-key': 'key', //coloque aqui sua key rapidapi
 			'x-rapidapi-host': 'free-to-play-games-database.p.rapidapi.com'
 			}
 		};
